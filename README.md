@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Ayoub661
-- 👀 I’m interested in the web development 
-- 🌱 I’m currently learning html css bootstrap
-- 💞️ I’m looking to collaborate on UI projects
-- 📫 How to reach me (ahmed-ayoub-93@outlook.com)
+- 👋 Hi, my name is Ahmed ayoub a passonate UI Developer and this is a sample UI code using HTML and CSS for a free Figma Design
+- Figma design URL: https://www.figma.com/file/qCIniSaCngN52BWpOzklx1/Afsana-Website-(Community)?type=design&node-id=81-1532&mode=design&t=ab3DNJtpXvbVBXln-0
 
 <!---
 Ayoub661/Ayoub661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
